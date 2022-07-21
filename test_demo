@@ -14,3 +14,5 @@ print(stack.pop())
 
 print('\nStack after elements are popped:')
 print(stack)
+print(isfull())
+print(isempty))
